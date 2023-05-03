@@ -1,4 +1,4 @@
-public class E implements A, J, H {
+public class E extends null implements A, J, H {
 
     private double k = 100.500;
 
@@ -36,10 +36,6 @@ public class E implements A, J, H {
         return -1;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
     public long ac() {
         return 222;
     }
@@ -47,19 +43,24 @@ public class E implements A, J, H {
     public int cc() {
         return 39;
     }
-<<<<<<< HEAD
-=======
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 
     public long dd() {
-        return 99999;
+        return 100500;
     }
 
-    public float ff() {
-        return 0;
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
->>>>>>> sec_brnch
+
+    public byte oo() {
+        return 4;
+    }
 }
