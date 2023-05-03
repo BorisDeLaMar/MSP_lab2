@@ -36,28 +36,24 @@ public class E extends null implements A, J, H {
         return -1;
     }
 
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
     public long ac() {
-        return 222;
+        return 111;
+    }
+
+    public long dd() {
+        return 99999;
     }
 
     public int cc() {
         return 39;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
-<<<<<<< HEAD
-    public long ac() {
-        return 222;
-=======
     public void bb() {
         System.out.println(getClass().getName());
-    }
-
-    public long dd() {
-        return 100500;
     }
 
     public java.util.Random mm() {
@@ -66,6 +62,9 @@ public class E extends null implements A, J, H {
 
     public byte oo() {
         return 4;
->>>>>>> blue_brnch
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }
