@@ -39,4 +39,8 @@ public class E implements A, J, H {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public long ac() {
+        return 222;
+    }
 }
