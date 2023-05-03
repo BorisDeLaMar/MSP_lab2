@@ -1,4 +1,4 @@
-public class E implements A, J, H {
+public class E extends null implements A, J, H {
 
     private double k = 100.500;
 
@@ -36,11 +36,36 @@ public class E implements A, J, H {
         return -1;
     }
 
+    public long ac() {
+        return 222;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
+<<<<<<< HEAD
     public long ac() {
         return 222;
+=======
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public byte oo() {
+        return 4;
+>>>>>>> blue_brnch
     }
 }
