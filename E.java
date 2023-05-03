@@ -35,8 +35,4 @@ public class E implements A, J, H {
     public int af() {
         return -1;
     }
-
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
 }
