@@ -47,4 +47,8 @@ public class E implements A, J, H {
     public int cc() {
         return 39;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
