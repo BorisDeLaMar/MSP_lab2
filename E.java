@@ -47,4 +47,19 @@ public class E implements A, J, H {
     public int cc() {
         return 39;
     }
+<<<<<<< HEAD
+=======
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public float ff() {
+        return 0;
+    }
+>>>>>>> sec_brnch
 }
