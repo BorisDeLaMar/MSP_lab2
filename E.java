@@ -55,4 +55,8 @@ public class E implements A, J, H {
     public long dd() {
         return 99999;
     }
+
+    public float ff() {
+        return 0;
+    }
 }
